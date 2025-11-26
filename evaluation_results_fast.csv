@@ -1,0 +1,613 @@
+example_id,chapter,verse,instruction,input,expected_output,generated_output,inference_time_sec,output_length
+1,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रीभगवानुवाच |
+बहूनि मे व्यतीतानि जन्मानि तव चार्जुन |
+तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ||४-५||
+
+Transliteration:
+śrībhagavānuvāca .
+bahūni me vyatītāni janmāni tava cārjuna .
+tānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||","4.5 The Blessed Lord said  Many births of Mine have passed as well as of thine, O Arjuna; I know them all but thou knowest not, O Parantapa (scorcher of foes).","4.5 The Blessed Lord said  Many a births have I passed through, O Arjuna, and so have you; I know them all, but thou knowest not, O son of Pritha.",5.91,30
+2,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+न मे विदुः सुरगणाः प्रभवं न महर्षयः |
+अहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||
+
+Transliteration:
+na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .
+ahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",10.2 Neither the hosts of the gods nor the great sages know My origin; for in every way I am the source of all the gods and the great sages.,"10.2 Neither do the gods know My origin nor do the great sages (Rishis). For, I am the beginning of the gods and of the great sages in every way.",11.38,30
+3,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अर्जुन उवाच |
+दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |
+इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||
+
+Transliteration:
+arjuna uvāca .
+dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .
+idānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||","11.51 Arjuna said  Having seen this Thy gentle human form, O Krishna, now I am composed and am restored to my own nature.","11.51 Arjuna said  Having seen this wonderful human form of Thy, O Janardana, so full of mercy, I am now, O most merciful One,  drawn by Thy beauty and filled with love, and carried away by my nature.
+
+2.1.11 Arjuna said  O Krishna! O Janardana! O Lord of all beings! O Supreme Being! O Purushottama (Supreme Self)! O Lord of the universe! This is what I hear from all  that the Yogis, ascetics and sages,",11.26,75
+4,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् |
+परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||१८-४४||
+
+Transliteration:
+kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam .
+paricaryātmakaṃ karma śūdrasyāpi svabhāvajam ||18-44||","18.44 Agriculture, cattle-rearing and trade are the duties of the Vaisya (merchant), born of (their own) nature; and action consisting of service is the duty of the Sudra (servant-class), born of (their own) nature.","18.44 Agriculture, cow-protection, trade (business), this (the occupation of a Vaisya) is by nature; service (or) menial labour is also by nature the occupation of a Shudra.",11.05,27
+5,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् |
+परिणामे विषमिव तत्सुखं राजसं स्मृतम् ||१८-३८||
+
+Transliteration:
+viṣayendriyasaṃyogādyattadagre.amṛtopamam .
+pariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam ||18-38||","18.38 That happiness which arises from the contact of the sense-organs with the objects, which is at first like nectar, and in the end like poison  that is declared to be Rajasic.","Swami Sivananda did commentary on this verse in his work Aphorisms of Bhagavad Gita. (The full text is available here: https://vedasecret.com/bhagavad-gita-swami-sivananda)
+
+18.38 That happiness which arises from the union of the senses with their object, which is declared to be like nectar (the Supreme Bliss) in the beginning, is now declared to be Rajasic or passional. (It is) like poison. (This Rajasic or passional happiness arises",10.89,66
+6,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |
+नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||२-५७||
+
+Transliteration:
+yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham .
+nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||2-57||","2.57 He who is everywhere without attachment, on meeting with anything good or bad, who neither rejoices not hastes, his wisdom is fixed.","2.57 He whose love is spread all over and who rejoices in success and failure alike, his wisdom is established.
+
+2.57 He whose heart is filled with love everywhere, and who does not rejoice or hate success and failure, is possessed of wisdom.",10.94,43
+7,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |
+भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||१८-६१||
+
+Transliteration:
+īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .
+bhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||","18.61 The Lord dwells in the hearts of all beings, O Arjuna, causing all beings, by His illusive power, to revolve as if mounted on a machine.","18.61 The Lord dwells in the midst of the heart of all beings, Arjuna, 
+turning round all beings sitting in the womb of the ïla of Maya.",10.61,27
+8,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः |
+येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||२-३५||
+
+Transliteration:
+bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ .
+yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||2-35||",2.35 The great car-warriors will think that thou hast withdrawn from the battle through fear; and thou wilt be lightly held by them who have thought much of thee.,"2.35 It is because of fear, O Thou of limitless power, that the mighty warriors, who are many-headed and whose heads thou wilt swallow, will bite and bite.
+
+2.35 न तु स्वर्गलोकेषु वा मद्भाष्यं
+व्यजायते विविधानपेक्षया |
+भृशं चिष्डन्तः शठ",10.23,40
+9,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते |
+प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ||७-१७||
+
+Transliteration:
+teṣāṃ jñānī nityayukta ekabhaktirviśiṣyate .
+priyo hi jñānino.atyarthamahaṃ sa ca mama priyaḥ ||7-17||","7.17 Of them the wise, ever steadfast and devoted to the One, excels (is the best); for I am exceedingly dear to the wise and he is dear to Me.","7.17 Of these, one is ever steadfast, and the wise man excels in that  he loves Me more than himself, My dear; for him I have declared that he is My favourite.",10.25,32
+10,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रीभगवानुवाच |
+अनाश्रितः कर्मफलं कार्यं कर्म करोति यः |
+स संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||
+
+Transliteration:
+śrībhagavānuvāca .
+anāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .
+sa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",6.1 The Blessed Lord said  He who performs his bounden duty without depending on the fruits of his actions  he is a Sannyasi and a Yogi; not he who is without fire and without action.,"6.1 The Blessed Lord said  He who performs action, leaving aside the fruits thereof, regarding mere action as duty, he who  is an ascetic and a Yogi, as well as a non-attached, is not a non-doer.",10.09,36
+11,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+सञ्जय उवाच |
+एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |
+विसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||
+
+Transliteration:
+sañjaya uvāca .
+evamuktvārjunaḥ saṅkhye rathopastha upāviśat .
+visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||","1.47. Sanjaya said  Having thus spoken in the midst of the battlefield, Arjuna,
+casting away his bow and arrow, sat down on the seat of the chariot with
+his mind overwhelmed with sorrow.","1.47. Sanjaya said  Having thus spoken to Arjuna who was filled with sorrow,
+standing in his chariot and casting aside his bow adomed with arrow, and
+vowed by the arrowheads, he, without an arrow on it, went up to the seat of
+his chariot.",10.42,44
+12,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |
+तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||२-२५||
+
+Transliteration:
+avyakto.ayamacintyo.ayamavikāryo.ayamucyate .
+tasmādevaṃ viditvainaṃ nānuśocitumarhasi ||2-25||","2.25 This (Self) is said to be unmanifested, unthinkable and unchangeable. Therefore, knowing This to be such, thou shouldst not grieve.","2.25 As this is unmanifest, indistinct and immutable, therefore, having known It thus, thou shouldst not grieve.
+
+### Interpretation:
+2.25 This is unmanifest, indistinct and immutable; therefore, having known It thus, thou shouldst not grieve.",10.49,35
+13,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव |
+येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि (var अशेषाणि) ||४-३५||
+
+Transliteration:
+yajjñātvā na punarmohamevaṃ yāsyasi pāṇḍava .
+yena bhūtānyaśeṣāṇi drakṣyasyātmanyatho mayi ||4-35||","4.35 Knowing ï1thatï1 thou shalt not, O Arjuna, again get deluded like this; and by that thou shalt see all beings in thy Self and also in Me.","4.35 Knowing this, there shall be no delusion for thee, O Arjuna; with this Knowledge thou shalt see everything other than Myself in thyself, not My Self. (Others and ïI will be perceved in the body) in the body.
+
+### Interpretation:
+4.35 Yajnasamnyastena gaccha, i.e. go to battle after sacrificing, or abandoning the ceremonial feast of sacrifice as the Yajña has been taught above.  Know this (mystery of",9.02,68
+14,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |
+कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||
+
+Transliteration:
+trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .
+kāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||","16.21 Triple is the gate of this hell, destructive of the self  lust, anger and greed; therefore one should abandon these three.","16.21 There are three gates leading to hell which destroy the self  lust, anger and greed  therefore, one should abandon these three.",2.87,22
+15,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा |
+अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||
+
+Transliteration:
+kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .
+anityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||","9.33 How much more (easily) then the hold Brahmins and devoted royal saints (attain the goal); having come to this impermanent and unhappy world, do thou worship Me.","9.33 What then, the sacred Brahmins, those devotees and royal sages come to this everlasting and happiness-giving world  Having come to this world  worship Me.",8.98,25
+16,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः |
+यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||
+
+Transliteration:
+na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ .
+yastu karmaphalatyāgī sa tyāgītyabhidhīyate ||18-11||","18.11 Verily, it is not possible for an embodied being to abandon actions entirely; but he who relinishes the rewards of actions is verily called a man of renunciation.",18.11 Not indeed is it possible for (the embodied) to abandon completely all actions; but he who renounces the fruit of actions is known as a renunciant.,8.99,27
+17,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् |
+वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||१८-२१||
+
+Transliteration:
+pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān .
+vetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam ||18-21||",18.21 But that knowledge which sees in all beings various entities of distinct kinds as different from one another  know thou that knowledge to be Rajasic.,"18.21 But, as differing from all beings, knowledge taught by thee of the various conditions of things, belongs to the Rajasic (passion-tainted) knowledge; know it thus.",9.04,26
+18,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति |
+तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ||७-२१||
+
+Transliteration:
+yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati .
+tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyaham ||7-21||",7.21 Whatsoever form any devotee desires to worship with faith  that (same) faith of his I make firm and unflinching.,"7.21 To whatever form (of the Divinity) the pure-hearted devotee, as desiring to worship, thinks; to that form alone, even I, do I establish by My own power his faith.",9.69,30
+19,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+सर्वस्य चाहं हृदि सन्निविष्टो
+मत्तः स्मृतिर्ज्ञानमपोहनञ्च |
+वेदैश्च सर्वैरहमेव वेद्यो
+वेदान्तकृद्वेदविदेव चाहम् ||१५-१५||
+
+Transliteration:
+sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .
+vedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||","15.15 And I am seated in the hearts of all; from Me are memory and knowledge, as well as their absence. I am verily That which has to be known by all the Vedas; I am indeed the author of the Vedanta and the knower of the Vedas am I.","15.15 I am established in the heart of every being; Memory, knowledge and renunciation are of Me; I am the sole knowable by all these Vedas; I am the end of the Vedas and the knower of the Vedas.",9.35,39
+20,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् |
+सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||
+
+Transliteration:
+akīrtiṃ cāpi bhūtāni kathayiṣyanti te.avyayām .
+sambhāvitasya cākīrtirmaraṇādatiricyate ||2-34||","2.34 People, too, will recount thy everlasting dishonour; and to one who has been honoured, dishonour is worse than death.","2.34 Even what is not known to men will they proclaim to Thee, the imperishable:  the fame, even of him who is fictitiously famous, is destroyed at death.",9.16,28
+21,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |
+याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||
+
+Transliteration:
+vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .
+yābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||","10.16 Thou shouldst indeed tell, without reserve, of Thy divine glories by which Thou existest, pervading all these worlds. (None else can do so.)","10.16 Thou shouldst declare fully these supreme divine powers of My essence; verily, by these divine powers filled with divine glimses, permeate the worlds.",9.06,24
+22,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः |
+तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ||३-९||
+
+Transliteration:
+yajñārthātkarmaṇo.anyatra loko.ayaṃ karmabandhanaḥ .
+tadarthaṃ karma kaunteya muktasaṅgaḥ samācara ||3-9||","3.9 The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform action for that sake (for sacrifice alone), free from attachment.","3.9 Elsewhere is this world tied by action to the non-sacrificial (profane); do thou, O Arjuna, the liberated one, perform action for the sake of the sacrifice.",9.12,27
+23,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+मां च योऽव्यभिचारेण भक्तियोगेन सेवते |
+स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||
+
+Transliteration:
+māṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .
+sa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14-26||","14.26 And he who serves Me with unswerving devotion, he, crossing beyond the alities, is fit for becoming Brahman.","14.26 He who worships Me in the way of devotion (Bhakti Yoga), without turning to others, attains to Brahmic (pure) knowledge.",9.06,21
+24,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रीभगवानुवाच |
+मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |
+श्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||
+
+Transliteration:
+śrībhagavānuvāca .
+mayyāveśya mano ye māṃ nityayuktā upāsate .
+śraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||","12.2 The Blessed Lord said  Those who, fixing their mind on Me, worship Me, ever steadfast and endowed with supreme faith, are the best in Yoga in My opinion.","12.2 The Blessed Lord said  If ye fix your mind on Me through continual devotion (together with) unshaken faith, ye that place your whole being (mind, intellect, etc.) in Me these are deemed by Me to be the most firm (steadfast).
+
+Th those who are steadfast in this way are of the opinion that they are the most steadfast. (i.e.) their faith about themselves is firmer than another man's faith about himself.
+They always think: We are more steadfast than other people.
+This is their opinion about themselves and",9.1,89
+25,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अहो बत महत्पापं कर्तुं व्यवसिता वयम् |
+यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||
+
+Transliteration:
+aho bata mahatpāpaṃ kartuṃ vyavasitā vayam .
+yadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||1-45||","1.45. Alas! We are involved in a great sin, in that we are
+prepared to kill our kinsmen, through greed for the pleasures of a kingdom.","1.45. Alas! What a great sin we have determined to commit,
+to slay our own people, moved by passion for royal pleasures and power.
+ 
+1.45. Alas! What a great sin it is which we have determined to commit,
+with the desire for riches, a royal pleasure and power, to slay our own people.
+
+1.45. Alas! What a great sin we have decided to commit,
+to slay our own people moved by the desire for riches, a royal pleasure and power.",9.04,80
+26,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |
+अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ||६-३८||
+
+Transliteration:
+kaccinnobhayavibhraṣṭaśchinnābhramiva naśyati .
+apratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi ||6-38||",Swami Sivananda did not comment on this sloka,"6.38 Does not he, who is torn asunder by both, like a rent (fragile) lotus-like leaves, who is devoid of all fixity, O mighty-armed (Arjuna), who is bewildered about the path of Brahman?",9.16,33
+27,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |
+प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||
+
+Transliteration:
+tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .
+pravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||","17.24 Therefore, with the utterance of ""Om"" are the acts of sacrifice, gift and austerity as enjoined in the scriptures, always begun by the students of Brahman.","17.24 Therefore, by uttering ekm"" (OM), the rites of sacrifice, gift and austerity as ordained by the scriptures should be constantly performed by the utterers of the Brahman (the Absolute).",9.1,30
+28,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |
+एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||
+
+Transliteration:
+jñānayajñena cāpyanye yajanto māmupāsate .
+ekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||","9.15 Others also sacrificing with the wisdom-sacrifice worship Me, the All-faced, as one, as distinct, and as manifold.","9.15 And others, again, worship Me with the Yajna of wisdom, with Oneness and diversity, in many ways, with these faces (directions) turned to all.",7.73,25
+29,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अपि चेत्सुदुराचारो भजते मामनन्यभाक् |
+साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ||९-३०||
+
+Transliteration:
+api cetsudurācāro bhajate māmananyabhāk .
+sādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||","9.30 Even if the most sinful worships Me, with devotion to none else, he too should indeed by regarded as righteous for he has rightly resolved.","9.30 Even if he be of very wicked conduct but worships Me alone without attachment, and having restrained his senses, he has perfectly discharged his duty in this world, he is to be regarded as good.",9.23,36
+30,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला |
+समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ||२-५३||
+
+Transliteration:
+śrutivipratipannā te yadā sthāsyati niścalā .
+samādhāvacalā buddhistadā yogamavāpsyasi ||2-53||","2.53 When thy intellect, which is perplexed by the Veda text, which thou hast read, shall stand immovable and steady in the Self, then thou shalt attain Self-realisation.","2.53 When through the Teachings of the Vedas (the scriptures) thou shalt be fixed without wavering and when the intellect shall be stilled in meditation, then thou shalt gain Yoga.",9.65,30
+31,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+विस्तरेणात्मनो योगं विभूतिं च जनार्दन |
+भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||
+
+Transliteration:
+vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .
+bhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||","10.18 Tell me again in detail, O Krishna, of Thy Yogic power and glory; for I am not satiated with what I have heard of Thy life-giving and nectar-like speech.","10.18 Teach me, O Janardana, in detail, the Yoga or the spiritual discipline and the splendour of My being; now I have been satisfied, hearing Thy sweet words, I find nectar. ||10-18||",11.16,32
+32,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |
+सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||२-४८||
+
+Transliteration:
+yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .
+siddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||","2.48 Perform action, O Arjuna, being steadfast in Yoga, abandoning attachment and balanced in success and failure. Evenness of mind is called Yoga.","2.48 Do thy works, O Arjuna, abandoning attachment, having for eversteadfastness of the mind  thus evenness of success and failure is called Yoga.",11.28,23
+33,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रद्धावाननसूयश्च शृणुयादपि यो नरः |
+सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||
+
+Transliteration:
+śraddhāvānanasūyaśca śṛṇuyādapi yo naraḥ .
+so.api muktaḥ śubhā.Nllokānprāpnuyātpuṇyakarmaṇām ||18-71||","18.71 Also the man who hears this, full of faith and free from malice, he, too, liberated, shall attain to the happy worlds of those of righteous deeds.",18.71 A man who with faith and without censure listens to the Scriptures is also freed; he goes to heaven because of his meritorious deeds.,10.46,25
+34,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् |
+कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||
+
+Transliteration:
+sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .
+kalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||","9.7 All beings, O Arjuna, go into My Nature at the end of a Kalpa; I send them forth again at the beginning of (the next) Kalpa.","9.7 All beings, O son of Kunti, come to Me by nature; when a cycle is cut off, I re-produce them at the beginning of a cycle.",9.98,27
+35,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः |
+गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ||५-१७||
+
+Transliteration:
+tadbuddhayastadātmānastanniṣṭhāstatparāyaṇāḥ .
+gacchantyapunarāvṛttiṃ jñānanirdhūtakalmaṣāḥ ||5-17||","5.17 Their intellect absorbed in That, their self being That, established in That, with That for their supreme goal, they go whence there is no return, their sins dispelled by knowledge.",5.17 They whose mind and Self are established in that (Brahman) and whose faith is fixed thereon (and whose refuge is there) go to no further birth (after death). Their sins are destroyed by knowledge.,10.16,35
+36,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |
+पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||३-४१||
+
+Transliteration:
+tasmāttvamindriyāṇyādau niyamya bharatarṣabha .
+pāpmānaṃ prajahi hyenaṃ jñānavijñānanāśanam ||3-41||","3.41 Therefore, O best of the Bharatas (Arjuna), controlling the senses first, do thou kill this sinful thing, the destroyer of knowledge and realisation.","3.41 Therefore, O Arjuna, at first restrain these senses of thine
+and then abandon this taint of sin which is the destruction of knowledge and discrimination.
+(or) which obliterates knowledge and wisdom.",10.27,32
+37,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः |
+नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||१८-४९||
+
+Transliteration:
+asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ .
+naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||18-49||","18.49 He whose intellect is unattached everywhere, who has subdued his self, from whom desire has fled,  he by renunciation, attains the supreme state of freedom from action.","18.49 With the mind unattached, with the self conquered and with the desire destroyed, attaining to the supreme perfection by renunciation (Sannyasa), he attains to the perfection of actionlessness.",10.29,29
+38,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |
+परं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||
+
+Transliteration:
+avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .
+paraṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||","9.11 Fools disregard Me, clad in human form, not knowing My higher Being as the great Lord of (all) beings.","9.11 Foolish men, while knowing Me to be transcendental in essence, think of My Nature as human-like and bodily, knowing not My transcendental being, the great Lord of beings. (the Lord)
+
+### Explanation (by Bhagavad Gita commentator):
+Gita Prakash (Hindi)  Bhagavad Gita Chapter 9 Verse 11  In their ignorance, the foolish (Moolah) men, while knowing Me to be in essence different, in reality, from this human body (this body being only the",10.34,72
+39,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज |
+अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||
+
+Transliteration:
+sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja .
+ahaṃ tvāṃ sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||18-66||","18.66 Abandoning all duties, take refuge in Me alone: I will liberate thee from all sins; grieve not.","18.66 Casting off all duties, take shelter in Me alone; I shall liberate thee from all sins; fear thou not. (for those) who take refuge in Me.",6.21,27
+40,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+एवं परम्पराप्राप्तमिमं राजर्षयो विदुः |
+स कालेनेह महता योगो नष्टः परन्तप ||४-२||
+
+Transliteration:
+evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ .
+sa kāleneha mahatā yogo naṣṭaḥ parantapa ||4-2||","4.2 This, handed down thus in regular succession, the royal sages knew. This Yoga, by long lapse of time, has been lost here, O Parantapa (burner of the foes).","4.2 Those sage-kings of old have thus learned this most excellent succession of teachings. This Yoga now of old has been lost by thee, O Parantapa (Arjuna).",7.13,27
+41,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |
+नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||
+
+Transliteration:
+asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .
+nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||","1.7. ""Know also, O best among the twice-born! the names of those
+who are the most distinguished amongst ourselves, the leaders of my army;
+these I name to thee for thy information.","1.7. But those foremost of the twice-born (the Brahmanas) among us, those who are the leaders of my army, O best of the twice-born (Arjuna), I thus tell thee (their names).
+
+1.7. But those who are the leaders of my army among the foremost of the twice-born (Brahmanas), O best of the twice-born (Arjuna), I thus tell thee their names.",7.65,60
+42,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् |
+जीवभूतां महाबाहो ययेदं धार्यते जगत् ||७-५||
+
+Transliteration:
+apareyamitastvanyāṃ prakṛtiṃ viddhi me parām .
+jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat ||7-5||","7.5 This is the inferior Prakriti, O mighty-armed (Arjuna); know thou as different from it My higher Prakriti (Nature), the very life-element, by which this world is upheld.","7.5 Know thou that other nature higher than these, O Mighty-armed Arjuna. By which Nature the whole world is pervaded.",9.17,20
+43,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |
+आहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||
+
+Transliteration:
+kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .
+āhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||","17.9 The foods that are bitter, sour, saline, excessively hot, pungent, dry and burning, are liked by the Rajasic and are productive of pain, grief and disease.","17.9 Meats, garlic, onion, ginger, salt, beans, sesame and mustard seeds, bitter medicaments: these are the luxurious and costly foods which generate pain, sorrow and desire.",11.04,26
+44,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+किरीटिनं गदिनं चक्रहस्तं
+इच्छामि त्वां द्रष्टुमहं तथैव |
+तेनैव रूपेण चतुर्भुजेन
+सहस्रबाहो भव विश्वमूर्ते ||११-४६||
+
+Transliteration:
+kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .
+tenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||","11.46 I desire to see Thee as before, crowned, bearing a mace, with the discus in hand, in Thy former form only, having four arms, O thousand-armed, Cosmic Form (Being).","11.46 I desire to see Thee with the Diadem, the mace and the circular disc as weapons, also with four hands and a thousand arms, O (Divine Being) whose form is all-pervading.",11.14,32
+45,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+ये हि संस्पर्शजा भोगा दुःखयोनय एव ते |
+आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ||५-२२||
+
+Transliteration:
+ye hi saṃsparśajā bhogā duḥkhayonaya eva te .
+ādyantavantaḥ kaunteya na teṣu ramate budhaḥ ||5-22||","5.22 The enjoyments that are born of contacts are only generators of pain, for they have a beginning and an end, O Arjuna; the wise man does not rejoice in them.","5.22 Those, verily, who in their nature possess the elements of contact, pleasure and pain, so also the origin and the end (O Arjuna), the wise man does not delight in them.",10.95,32
+46,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अनेकबाहूदरवक्त्रनेत्रं
+पश्यामि त्वां सर्वतोऽनन्तरूपम् |
+नान्तं न मध्यं न पुनस्तवादिं
+पश्यामि विश्वेश्वर विश्वरूप ||११-१६||
+
+Transliteration:
+anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .
+nāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||","11.16 I see Thee of boundless form on every side with many arms, stomachs, mouths and eyes: neither the end nor the middle nor also the beginning do I see, O Lord of the universe, O Cosmic Form.","11.16 I see Thee with many mouths and many faces; eyes all round; O Lord of the Universes, having infinite forms; no beginning, no middle, no end and nothing like that is Thy form, O Lord.",10.37,36
+47,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः |
+भविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||
+
+Transliteration:
+na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .
+bhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||","18.69 Nor is there any among men who does dearer service to Me, nor shall there be another on earth dearer to Me than he.","18.69 And no being among men on earth is dearer to Me than he, nor shall any other be dearer to Me than he on earth.",10.05,26
+48,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् |
+दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||१८-४३||
+
+Transliteration:
+śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam .
+dānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam ||18-43||","18.43 Prowess, splendour, firmness, dexterity and also not fleeing from battle, generosity and lordliness are the duties of the Kshatriyas, born of (their own) nature.","18.43 Bravery, lustre, firmness, courage to face even death, giving charities, being the lord (ruler), and performing (presiding over) the Kshatriya duty as ordained by one's own nature.",10.31,28
+49,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः |
+छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ||४-४२||
+
+Transliteration:
+tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ .
+chittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata ||4-42||","4.42 Therefore with the sword of the knowledge (of the Self) cut asunder the doubt of the self born of ignorance, residing in thy heart, and take refuge in Yoga. Arise, O Arjuna.","4.42 Therefore cut away that delusion, born of ignorance, which sits (rests) in the heart and which is veiling the Self  (knowledge of the Self)  from the man who has knowledge  (whose mind is steadfast)!  Be steadfast! O Arjuna (Bhishma).
+
+### Interpretation:
+4.42 Therefore, cut away that delusion, born of ignorance, which rests in the heart and which veils the Self (knowledge of the Self) from a man who has knowledge (whose mind is
+steadfast",10.4,75
+50,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |
+अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||
+
+Transliteration:
+dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .
+ajñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||","16.4 Hypocrisy, arrogance and self-conceit, anger and also harshness and ignorance, belong to one who is born for a demoniacal state, O Partha (Arjuna).","16.4 Jealousy, Pride, vanity, anger and cruelty as also ignorance born of heedlessness, O Arjuna, are the wealth of demons.
+
+16.1 (Bhagavad Gita (simple):) Jealousy, egoism, passion, avarice and ignorance born of heedlessness are the Wealth of demons. (16.1-4)
+These are known as the five demons. They are the five vices.",9.24,51
+51,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+कृपया परयाविष्टो विषीदन्निदमब्रवीत् |
+अर्जुन उवाच |
+दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||
+
+Transliteration:
+kṛpayā parayāviṣṭo viṣīdannidamabravīt .
+arjuna uvāca .
+dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||1-28||","1.28. Arjuna said  Seeing these, my kinsmen, O krishna, arrayed, eager to fight.","1.28. The Blessed Lord said, His heart filled with compassion, the
+loving Krishna spoke these words to Arjuna.
+  Arjuna said  I have seen our relatives, Krishna, ready for battle.
+  (The Yadavas, Krishna's own kinsmen, had taken the side of the Dharma
+  party. This is a reference to Balarama who led the side of the Kauravas.)
+
+1.28. The Blessed Lord said, His heart filled with compassion, the
+l",10.68,67
+52,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |
+असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||
+
+Transliteration:
+adeśakāle yaddānamapātrebhyaśca dīyate .
+asatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||","17.22 The gift that is given at a wrong place and time, to unworthy persons, without respect or with insult is declared to be Tamasic.","17.22 What is given without a reason or a prescription, to those unfit for it, such unconsecrated, unblest thing, is declared to be Tamasic.",9.52,24
+53,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् |
+न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ||१३-२९||
+
+Transliteration:
+samaṃ paśyanhi sarvatra samavasthitamīśvaram .
+na hinastyātmanātmānaṃ tato yāti parāṃ gatim ||13-29||",13.29 Because he who sees the same Lord eally dwelling everywhere does not destroy the Self by the self; he goes to the highest goal.,"13.29 Seeing everywhere the Lord, sitting (stationed), Who is at rest in everything, no one kills oneself; he goes to the Supreme Goal.",10.32,23
+54,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः |
+अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ||६-६||
+
+Transliteration:
+bandhurātmātmanastasya yenātmaivātmanā jitaḥ .
+anātmanastu śatrutve vartetātmaiva śatruvat ||6-6||","6.6 The Self is the friend of the self of him by whom the self has been conered by the Self, but to the unconered self, this Self stands in the position of an enemy, like an (external) foe.","6.6 For him who has thereby conquered himself in his own Self, who sees himself in all (by non-differentiation) and who respects all as one in the Self is no 
+enemy; but he who does not perceive Atman in all, that one is truly his enemy.",10.09,46
+55,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् |
+स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ||५-२०||
+
+Transliteration:
+na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam .
+sthirabuddhirasammūḍho brahmavid brahmaṇi sthitaḥ ||5-20||","5.20 Resting in Brahman, with steady intellect and undeluded, the knower of Brahman neither rejoiceth on obtaining what is pleasant nor grieveth on obtaining what is unpleasant.","5.20 The wise man of firm understanding and undeluded (one who has realised the Brahman), attains neither happiness on getting that which he desires nor does he sorrow at getting that which he does not desire; having realised the Brahman, he sits (or stands), satisfied (with the Self or the Brahman).
+
+5.20 नाहर्ष्येत् प्रियं प्राप्य नोद्वेजेत्प्राप्य चाप्",9.44,57
+56,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |
+बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||
+
+Transliteration:
+dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya .
+buddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ ||2-49||","2.49 Far lower than the Yoga of wisdon is action, O Arjuna. Seek thou refuge in wisdom; wretched are they whose motive is the fruit.","2.49 The ealr task is but little, through the Yoga of wisdom; let the weak-hearted and the desirers of fruition take refuge in it.",9.43,24
+57,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+निमित्तानि च पश्यामि विपरीतानि केशव |
+न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||
+
+Transliteration:
+nimittāni ca paśyāmi viparītāni keśava .
+na ca śreyo.anupaśyāmi hatvā svajanamāhave ||1-31||","1.31. And I see adverse omens, O Kesava. I do not see any good
+in killing my kinsmen in battle.","1.31. I see, O Keshava, the means to be the opposite, and no good 
+I see in slaying my kinsmen in this battle.
+
+1:31 'I see, O Keshava, the means to opposite of what they should be and no
+good I see in slaying my kinsmen in this battle.' The word 'anupashyami' is used
+in the sense of 'not seeing' (in spite of a desire to see). Hence the interpretation
+is: 'though I wish to see good in the slaughter of my",9.4,82
+58,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |
+त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||
+
+Transliteration:
+yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .
+ta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||1-33||","1.33. Those for whose sake we desire kingdom, enjoyments and pleasures,
+stand here in battle, having renounced life and wealth.","1.33. Those for whom the acquisition of kingship, wealth and pleasures does not matter
+in battle have come to a standstill, having laid down their lives and riches.",9.1,28
+59,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अनादिमध्यान्तमनन्तवीर्य-
+मनन्तबाहुं शशिसूर्यनेत्रम् |
+पश्यामि त्वां दीप्तहुताशवक्त्रं
+स्वतेजसा विश्वमिदं तपन्तम् ||११-१९||
+
+Transliteration:
+anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .
+paśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||","11.19 I see Thee without beginning, middle or end, infinite in power, of endless arms, the sun and the moon being Thy eyes, the burning fire Thy mouth, heating the whole universe with Thy radiance.","11.19 I see Thee, O limitless, without beginning and end, with limitless energy the two arms, like the moon and the sun. Thy face is the lustre of a blazing fire, with open mouth, illuminating the whole world.
+
+11.19 I see Thee, O limitless and endless, with infinite energy, the two arms extending like the moon and the sun. Thy face is the brilliantly shining fire, with open mouth, illuminating the whole world.",9.3,73
+60,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यातयामं गतरसं पूति पर्युषितं च यत् |
+उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||
+
+Transliteration:
+yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .
+ucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||","17.10 That which is state, tasteless, putrid, rotten, refuse and impure, is the food liked by the Tamasic.","17.10 The food which is taken uninvited from the alms-bowl after the meal is over, leftovers, remnants of food which have been eaten by others, is considered unholy by the Tamasic-minded.
+
+17.10 The food which is partaken of without having invited anyone, remnants of food, is considered undesirable by the Tamasic-minded.",7.03,51
+61,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् |
+क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||२-४३||
+
+Transliteration:
+kāmātmānaḥ svargaparā janmakarmaphalapradām .
+kriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati ||2-43||","2.43 Full of desires, having heaven as their goal, (they utter speech which is directed to ends) leading to new births as the result of their works, and prescribe various methods abounding in specific actions, for the attainment of pleasure and power.","2.43 Greedy for all desires, with heaven their ultimate goal, their fulfilment 
+resting on the fruits of birth and action, engrossed in the multifarious 
+activities of enjoyment and Lordship.
+
+2.43 गावहो हविर्ददह्स्रावो यजुरहव्यवहर्नियमः |
+क्रतुरेव तपश्च दानमोत्स्य",9.21,37
+62,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |
+गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||
+
+Transliteration:
+śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .
+gṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||","15.8 When the Lord (as the individual soul) obtains a body and when He leaves it, He takes these and goes (with them) as the wind takes the scents from their seats (flowers, etc.).","15.8 Whichever body the lord goes forth by, such (the body) he enters and by which the wind carries forth the fragrances.",7.76,22
+63,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अध्येष्यते च य इमं धर्म्यं संवादमावयोः |
+ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||१८-७०||
+
+Transliteration:
+adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ .
+jñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ ||18-70||","18.70 And he who will study this sacred dialogue of ours, by him I shall have been worshipped by the sacrifice of wisdom,  such is My conviction.","18.70 And he who understands this harmonious conversation between Us which is of a religious nature (i.e., the Yoga of knowledge) by knowledge-sacrifice, verily I become pure (or sinless), thus I think. (i.e., I deem it).",10.35,36
+64,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः |
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-५८||
+
+Transliteration:
+yadā saṃharate cāyaṃ kūrmo.aṅgānīva sarvaśaḥ .
+indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||2-58||","2.58 When, like the tortoise which withdraws on all sides its limbs, he withdraws his senses from the sense-objects, then his wisdom becomes steady.","2.58 Then, when the tortoise-like Yudhishthira devours the various senses
+like the limbs, her (his daughter's) understanding (Panchali's) is steadfast.
+
+2.58 yadā saṃharate cāyaṃ kūrmo.aṅgānīva sarvaśaḥ, tasya
+prañā pratiṣṭhitā, ""then, when the tortoise-like Yudhishthira devours the senses like the
+limbs, her understanding (the daughter",11.43,44
+65,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् |
+सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||३-२४||
+
+Transliteration:
+utsīdeyurime lokā na kuryāṃ karma cedaham .
+saṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ ||3-24||",3.24 These worlds would perish if I did not perform action; I should be the author of confusion of castes and destruction of these beings.,"3.24 If these people decline to do action under My suggestion, then I, being the cause of their confusion, shall deprive them of their life.",10.29,25
+66,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः |
+छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ||५-२५||
+
+Transliteration:
+labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ .
+chinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ ||5-25||","5.25 The sages (Rishis) obtain absolute freedom or Moksha  they whose sins have been destroyed, whose dualities (perception of dualities or experience of the pairs of opposites) are torn asunder, who are self-controlled, and intent on the welfare of all beings.","5.25 The sages who are free from sin, who have severed the twofold egoism (the egoism of the Jiva and the egoism of the Iswara), who are full of self-control, and who are desirous of the welfare of all beings, attain to the state of Brahman.
+
+### Interpretation:
+5.25 The sages, freed from sin, who have destroyed the twofold egoism (the egoism of the Jiva and the egoism of the Iswara), who are full of self-control (balanced mind",9.93,78
+67,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+यदा विनियतं चित्तमात्मन्येवावतिष्ठते |
+निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ||६-१८||
+
+Transliteration:
+yadā viniyataṃ cittamātmanyevāvatiṣṭhate .
+niḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||","6.18 When the perfectly controlled mind rests in the Self only, free from longing for all the objects of desires, then it is said, 'He is united'.","6.18 When the mind rests entirely in the Self, and the man is free from all desires, then he is said to be Yogi.",7.82,24
+68,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः |
+यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||
+
+Transliteration:
+jñānaṃ te.ahaṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ .
+yajjñātvā neha bhūyo.anyajjñātavyamavaśiṣyate ||7-2||","7.2 I shall declare to thee in full this knowledge combined with realisation, after knowing which nothing more here remains to be known.","7.2 I shall teach thee fully and comprehensively that knowledge which, when known, nothing else remains to be known.
+
+7.2 I shall fully teach thee that knowledge and no other thing need be know-after that.",4.75,35
+69,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |
+आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||
+
+Transliteration:
+tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .
+ācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ||1-26||","1.26. Then, Arjuna (son of Pritha) saw there (in the armies) stationed,
+fathers and grandfathers, teachers, maternal uncles, brothers, sons, grandsons
+and friends too.","1.26. Then Arjuna saw seated there in his army, fathers, grandfathers,
+teachers, uncles, fathers-in-law, grandsons, brothers-in-law and friends.
+
+1.26. There (in the battle-field), Arjuna saw, placed (sitting) in his
+army, fathers, grandfathers, teachers, uncles, grandsons, sons, brothers-in-law
+and friends.",9.85,39
+70,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः |
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-६८||
+
+Transliteration:
+tasmādyasya mahābāho nigṛhītāni sarvaśaḥ .
+indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||2-68||","2.68 Therefore, O mighty-armed Arjuna, his knowledge is steady whose senses are completely restrained from sense-objects.","2.68 Therefore one's senses, drawn under control in all respects (by the Self), O mighty-armed (Arjuna), are set fast in knowledge by him (the Self).",11.21,25
+71,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अधर्मं धर्ममिति या मन्यते तमसावृता |
+सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||१८-३२||
+
+Transliteration:
+adharmaṃ dharmamiti yā manyate tamasāvṛtā .
+sarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī ||18-32||","18.32 That, which, enveloped in darkness, sees Adharma as Dharma and all things perverted  that intellect, O Arjuna, is Tamasic (dark).","18.32 She who considers inversion of all things as right and truth, deluded by darkness, that intellect is, O Arjuna, Tamasic.",4.94,21

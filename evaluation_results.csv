@@ -1,0 +1,30 @@
+example_id,chapter,verse,instruction,input,expected_output,generated_output,inference_time_sec,output_length
+1,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+श्रीभगवानुवाच |
+बहूनि मे व्यतीतानि जन्मानि तव चार्जुन |
+तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ||४-५||
+
+Transliteration:
+śrībhagavānuvāca .
+bahūni me vyatītāni janmāni tava cārjuna .
+tānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||","4.5 The Blessed Lord said  Many births of Mine have passed as well as of thine, O Arjuna; I know them all but thou knowest not, O Parantapa (scorcher of foes).","4.5 The Blessed Lord said  Thou hast many births, O Arjuna, as have I; all these I know, but thou knowest none, O opponent of enemies!",21.15,26
+2,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+न मे विदुः सुरगणाः प्रभवं न महर्षयः |
+अहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||
+
+Transliteration:
+na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ .
+ahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||10-2||",10.2 Neither the hosts of the gods nor the great sages know My origin; for in every way I am the source of all the gods and the great sages.,"10.2 Neither do the celestial beings know My origin; nor do the great sages. I am the beginning of the gods and also of the great sages in every way.
+
+10.2 None of the celestials know My origin; nor do the great sages (Rishis). I am the beginning of the gods and also of the great sages in all ways.",6.38,60
+3,,,"Explain the meaning of the following Bhagavad Gita verse in simple, modern English. Keep the explanation concise (2-4 sentences) and mention any key context if relevant.","Original (Sanskrit):
+अर्जुन उवाच |
+दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |
+इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||
+
+Transliteration:
+arjuna uvāca .
+dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .
+idānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||","11.51 Arjuna said  Having seen this Thy gentle human form, O Krishna, now I am composed and am restored to my own nature.","11.51 Arjuna said  Having seen this human form of Yours, O Janardana, now I am afraid, overwhelmed with fear, deprived of my senses, and driven by nature.
+
+11.51 Arjuna said  Having seen this human form of Thy, O Janardana, now I am afraid, overwhelmed with fear, deprived of my senses, and driven by nature.",10.93,54

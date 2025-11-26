@@ -1,0 +1,48 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Model checkpoints (large files)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.model
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node modules
+node_modules/
+web/node_modules/
+
+# Next.js build output
+.next/
+web/.next/
+out/
+
+# Database
+*.db
