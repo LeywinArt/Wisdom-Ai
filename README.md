@@ -1,4 +1,4 @@
-# Bhagavad Gita Fine-Tuning Project
+# Wisdom Ai (Bhagvad-Gita-fine tuning)
 
 ## 🎯 Project Overview
 
